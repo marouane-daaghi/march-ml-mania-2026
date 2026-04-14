@@ -95,6 +95,17 @@ march-ml-mania-2026/
 
 ---
 
+## 📦 Data
+
+The dataset is publicly available on Kaggle:
+
+🔗 [March Machine Learning Mania 2026 - Dataset](https://www.kaggle.com/competitions/march-machine-learning-mania-2026/data)
+
+To use this project locally:
+1. Download the data from the link above
+2. Place the CSV files in the project folder
+3. Run the notebook
+
 ## ⚙️ Requirements
 
 ```bash
